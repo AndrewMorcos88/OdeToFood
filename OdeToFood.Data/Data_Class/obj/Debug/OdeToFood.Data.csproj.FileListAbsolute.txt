@@ -1,0 +1,12 @@
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\ClassLibrary1\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\ClassLibrary1\bin\Debug\EntityFramework.dll
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\ClassLibrary1\bin\Debug\EntityFramework.xml
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\ClassLibrary1\obj\Debug\OdeToFood.Data.csproj.CopyComplete
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\ClassLibrary1\obj\Debug\OdeToFood.Data.csprojAssemblyReference.cache

@@ -100,3 +100,8 @@ F:\Course_online\ASP.net_MVC\new_project\OdeToFood\OdeToFood.Web\bin\Autofac.Int
 F:\Course_online\ASP.net_MVC\new_project\OdeToFood\OdeToFood.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
 F:\Course_online\ASP.net_MVC\new_project\OdeToFood\OdeToFood.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
 F:\Course_online\ASP.net_MVC\new_project\OdeToFood\OdeToFood.Web\bin\System.Threading.Tasks.Extensions.xml
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\OdeToFood.Web\bin\EntityFramework.dll
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.dll
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\OdeToFood.Web\bin\ClassLibrary1.dll.config
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\OdeToFood.Web\bin\EntityFramework.xml
+F:\Course_online\ASP.net_MVC\new_project\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.xml

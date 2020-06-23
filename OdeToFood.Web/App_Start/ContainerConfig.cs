@@ -1,6 +1,7 @@
 ﻿using Autofac;
 using Autofac.Integration.Mvc;
 using Autofac.Integration.WebApi;
+using ClassLibrary1.Services;
 using OdeToFood.Data.Services;
 using System;
 using System.Collections.Generic;
@@ -19,7 +20,10 @@ namespace OdeToFood.Web
             builder.RegisterControllers(typeof(MvcApplication).Assembly);
 
             builder.RegisterApiControllers(typeof(MvcApplication).Assembly);
-            builder.RegisterType<InMemoryRestuarantData>().As<IResturantData>().SingleInstance();
+            builder.RegisterType<SqlRestaurantData>().As<IResturantData>().InstancePerRequest();
+
+            builder.RegisterType<OdeToFoodsDbContext>().InstancePerRequest();
+
             var Container = builder.Build();
             DependencyResolver.SetResolver(new AutofacDependencyResolver(Container));
 
